@@ -1,0 +1,7 @@
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x64\Debug\DKInjector.exe.config
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x64\Debug\DKInjector.exe
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x64\Debug\DKInjector.pdb
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x64\Debug\DKInjector.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x64\Debug\DKInjector.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x64\Debug\DKInjector.exe
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x64\Debug\DKInjector.pdb

@@ -1,0 +1,10 @@
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x64\Release\DKInjector.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x64\Release\DKInjector.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x64\Release\DKInjector.exe.config
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x64\Release\DKInjector.exe
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x64\Release\DKInjector.pdb
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x64\Release\DKInjector.exe
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x64\Release\DKInjector.pdb
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x64\Release\System.ValueTuple.dll
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x64\Release\System.ValueTuple.xml
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x64\Release\DKInjector.csproj.CopyComplete

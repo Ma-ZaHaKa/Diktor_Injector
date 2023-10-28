@@ -1,0 +1,6 @@
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x86\Debug\CSGOInjector.exe.config
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x86\Debug\CSGOInjector.exe
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\bin\x86\Debug\CSGOInjector.pdb
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x86\Debug\DKInjector.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x86\Debug\CSGOInjector.exe
+C:\Users\Zver\Desktop\DKInjector-master\DKInjector-master\DKInjector\obj\x86\Debug\CSGOInjector.pdb
